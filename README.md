@@ -18,16 +18,16 @@ Images are from Project
 
 
 
-|<img src="s2.png" width="600">|
-|<img src="s3.png" width="600">|
-|<img src="s4.png" width="600">|
-|<img src="s5.png" width="600">|
-|<img src="s6.png" width="600">|
-|<img src="s7.png" width="600">|
-|<img src="s8.png" width="600">|
-|<img src="s9.png" width="600">|
-|<img src="s10.png" width="600">|
-|<img src="s11.png" width="600">|
+<img src="s2.png" width="600">
+<img src="s3.png" width="600">
+<img src="s4.png" width="600">
+<img src="s5.png" width="600">
+<img src="s6.png" width="600">
+<img src="s7.png" width="600">
+<img src="s8.png" width="600">
+<img src="s9.png" width="600">
+<img src="s10.png" width="600">
+<img src="s11.png" width="600">
 
 
 
