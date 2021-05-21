@@ -33,7 +33,7 @@ Images are from Project
 
 |------|
 
-Gameplay of the Project
+
 ## 📸 Vidoe's / Gameplay's
 |------|
 
