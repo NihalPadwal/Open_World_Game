@@ -44,7 +44,7 @@ Gameplay 2 = https://www.youtube.com/watch?v=mWPIpMQyoI8&t=7s
 
 |------|
 
-⭐  Controlls  ⭐
+## ⭐ Controlls ⭐
 
 W,A,S,D = MOVEMENT,  
 LEFT MOUSE CLICK(HOLD) = PUNCH,  
@@ -55,7 +55,7 @@ RIGHT SHIFT(HOLD) = SPRINT,
 2(HOLD) = DANCE 2,  
 
 
-## ✨ Requirements
+## ✨ Requirements 
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * 1 GB Ram
 * NO GPU REQUIRED
