@@ -39,7 +39,9 @@ Gameplay of the Project
 
 
 Gameplay 1 = https://www.youtube.com/watch?v=Cux_YmMrmM4
+
 Gameplay 2 = https://www.youtube.com/watch?v=mWPIpMQyoI8&t=7s
+
 |------|
 
 ⭐  Controlls  ⭐
