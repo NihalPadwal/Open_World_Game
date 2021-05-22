@@ -55,6 +55,10 @@ RIGHT SHIFT(HOLD) = SPRINT,
 2(HOLD) = DANCE 2,  
 
 
+## ✨ Download Link
+https://drive.google.com/drive/folders/1TxMJz53VQiszOyFArBRAyapmSNReLyRZ?usp=sharing
+
+
 ## ✨ Requirements 
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * 1 GB Ram
